@@ -12,7 +12,11 @@ I'm a Product Manager and data enthusiast who loves to dive into datasets, uncov
 - **Languages:** Python, SQL  
 - **Libraries & Frameworks:** Scikit-learn, XGBoost, LightGBM, Pandas, Polars  
 - **Tools:** Jupyter Notebook, Git  
-- **Machine Learning:** Supervised Learning, Feature Engineering, Model Optimization  
+- **Machine Learning:** Supervised Learning, Feature Engineering, Model Optimization
+- **Agentic AI:** Langchain, Langgragh, CrewAI, Sema4 (formerly Robocorp)
+- **RPA:** Robocorp Python Framework
+
+
 
 ### 📚 What I'm Learning  
 - Generative AI & Large Language Models  
