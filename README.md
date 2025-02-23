@@ -11,7 +11,7 @@ I'm a Product Manager and data enthusiast who loves to dive into datasets, uncov
 ### 🛠 Tech & Tools  
 - **Languages:** Python, SQL  
 - **Libraries & Frameworks:** Scikit-learn, XGBoost, LightGBM, Pandas, Polars  
-- **Tools:** Jupyter Notebook, Git, Tableau  
+- **Tools:** Jupyter Notebook, Git  
 - **Machine Learning:** Supervised Learning, Feature Engineering, Model Optimization  
 
 ### 📚 What I'm Learning  
