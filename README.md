@@ -1,14 +1,24 @@
 ## Hey there! 👋 I'm Aditi Phadnis 🌟
- 
 
+### 🚀 About Me  
+I'm a data enthusiast who loves to dive into datasets, uncover hidden patterns, and build models that solve real-world problems. Whether it's predicting the future or explaining the past, I'm on it!  
 
+### 💼 What I Do  
+- 📈 Build predictive models for business insights.  
+- 📊 Visualize data to tell compelling stories.  
+- 🤖 Create machine learning projects for fun and exploration.  
 
-Product Manager | Budding Data Scientist | AI Explorer | Lifelong Learner
+### 🛠 Tech & Tools  
+- **Languages:** Python, SQL  
+- **Libraries & Frameworks:** Scikit-learn, XGBoost, LightGBM, Pandas, Polars  
+- **Tools:** Jupyter Notebook, Git, Tableau  
+- **Machine Learning:** Supervised Learning, Feature Engineering, Model Optimization  
 
-🚀 About Me
-I'm a data enthusiast who loves to dive into datasets, uncover hidden patterns, and build models that solve real-world problems. Whether it's predicting the future or explaining the past, I'm on it!
+### 📚 What I'm Learning  
+- Generative AI & Large Language Models  
+- Advanced ML Model Optimization  
 
-💼 What I Do
-📈 Build predictive models for business insights.
-📊 Visualize data to tell compelling stories.
-🤖 Create machine learning projects for fun and exploration.
+### 📫 Let's Connect!  
+[LinkedIn](https://www.linkedin.com/in/aditi-phadnis/) | [GitHub](https://github.com/aditiphadnis) | [Medium](https://medium.com/@aditiphadnis)  
+
+🚀 Always open to learning, collaborating, and exploring the world of AI & ML!  
