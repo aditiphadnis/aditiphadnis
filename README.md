@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Aditi Phadnis 🌟
 
 ### 🚀 About Me  
-I'm a data enthusiast who loves to dive into datasets, uncover hidden patterns, and build models that solve real-world problems. Whether it's predicting the future or explaining the past, I'm on it!  
+I'm a Product Manager and data enthusiast who loves to dive into datasets, uncover hidden patterns, and build models that solve real-world problems. Whether it's predicting the future or explaining the past, I'm on it!  
 
 ### 💼 What I Do  
 - 📈 Build predictive models for business insights.  
