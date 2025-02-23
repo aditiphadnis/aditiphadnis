@@ -1,9 +1,6 @@
 ## Hey there! 👋 I'm Aditi Phadnis 🌟
  
 
-<!--
-**aditiphadnis/aditiphadnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--- !>
 
 
 Product Manager | Budding Data Scientist | AI Explorer | Lifelong Learner
