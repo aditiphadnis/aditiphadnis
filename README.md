@@ -6,7 +6,8 @@ I'm a Product Manager and data enthusiast who loves to dive into datasets, uncov
 ### 💼 What I Do  
 - 📈 Build predictive models for business insights.  
 - 📊 Visualize data to tell compelling stories.  
-- 🤖 Create machine learning projects for fun and exploration.  
+- 🤖 Create machine learning projects for fun and exploration.
+- 🗨️ Build conversational AI models for fun
 
 ### 🛠 Tech & Tools  
 - **Languages:** Python, SQL  
