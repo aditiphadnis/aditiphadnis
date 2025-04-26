@@ -17,6 +17,8 @@ I'm a Product Manager and data enthusiast who loves to dive into datasets, uncov
 - **Agentic AI:** Langchain, Langgragh, CrewAI, Sema4 (formerly Robocorp)
 - **RPA:** Robocorp Python Framework
 
+### 🚀 Recent Project
+- **Zomato Ads:** An Ad Management platform for restaurants on Zomato Platform to boost sales- https://zomato-ad-craft-pilot.lovable.app/ 
 
 
 ### 📚 What I'm Learning  
