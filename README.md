@@ -18,9 +18,11 @@ I'm a Product Manager and data enthusiast who loves to dive into datasets, uncov
 - **RPA:** Robocorp Python Framework
 
 ### 🚀 Recent Project
-- **Zomato Ads:** An Ad Management platform for restaurants on Zomato Platform to boost sales- https://zomato-ad-craft-pilot.lovable.app/ 
+- **Zomato Ads:** An Ad Management platform for restaurants on Zomato Platform to boost sales-  [Zomato Ads Platform](https://zomato-ad-craft-pilot.lovable.app/) 
 
-
+### Certification and Skill Badges- 
+- **Credly** [Credly Prodile Link](https://www.credly.com/users/aditi-r-phadnis)
+  
 ### 📚 What I'm Learning  
 - Generative AI & Large Language Models  
 - Advanced ML Model Optimization  
